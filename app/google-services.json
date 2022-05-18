@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "673004912827",
+    "project_id": "your-recipe-keeper",
+    "storage_bucket": "your-recipe-keeper.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673004912827:android:f1d8456fdff03b4839699e",
+        "android_client_info": {
+          "package_name": "com.example.yourrecipekeeper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673004912827-2dlhgl0gk7abkh76oav0n95r19j81vb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB2P7umg4bOV5eig_LqWJxb4yJRsw4SV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673004912827-2dlhgl0gk7abkh76oav0n95r19j81vb9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
